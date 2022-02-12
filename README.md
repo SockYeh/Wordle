@@ -1,2 +1,2 @@
 # Wordle
-CLI based wordle made in python.
+Console based wordle made in python.
